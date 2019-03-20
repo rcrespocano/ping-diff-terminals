@@ -8,7 +8,14 @@ This is a small project to generate a graph with the last time that all terminal
 - pandas, numpy and matplotlib
 
 
-## Usage
+### Installing
+Clone the repository
+```
+git clone https://github.com/rcrespocano/ping-diff-terminals.git
+```
+
+
+### Usage
 ```
 python src/pingdiff.py --file {file.csv}
 ```
